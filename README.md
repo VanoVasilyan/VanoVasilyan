@@ -1,8 +1,8 @@
 # Hello ! <img  src="https://c.tenor.com/DY6Pm8lN264AAAAC/adele-hello.gif"  width="100px" />
 
-My name is Vano, and I am Front-End Developer !
+### My name is Vano, and I am Front-End Developer !
 
-**My technology stack : **
+**My technology stack :**
 
 * HTML / CSS
 * Javascript
