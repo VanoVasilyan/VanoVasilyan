@@ -1,4 +1,4 @@
-# Hello ! <img  src="https://c.tenor.com/DY6Pm8lN264AAAAC/adele-hello.gif"  width="40px" />
+# Hello ! <img  src="https://c.tenor.com/DY6Pm8lN264AAAAC/adele-hello.gif"  width="60px" />
 
 My name is Vano, and I am Front-End Developer !
 
