@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello ! <img  src="https://c.tenor.com/DY6Pm8lN264AAAAC/adele-hello.gif"  width="25px" />
 
-<!--
-**VanoVasilyan/VanoVasilyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Vano, and I am Front-End Developer 
 
-Here are some ideas to get you started:
+**My technology stack:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML/CSS
+* Javascript
+* React
+
+📫 Contact with me:
+
+[gMail] :    (vanovasilyan@gmail.com) , 
+[linkedIn] : (https://www.linkedin.com/in/vano-vasilyan-4657261b3/) , 
+[telegram] : (https://t.me/VanoVasilyan) 
+
