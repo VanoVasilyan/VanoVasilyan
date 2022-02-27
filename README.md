@@ -1,4 +1,4 @@
-# Hello ! <img  src="https://emoji.gg/assets/emoji/6307_waving_lol.gif"  width="60px" />
+# Hello ! <img  src="https://emoji.gg/assets/emoji/6307_waving_lol.gif"  width="30px" />
 
 ### My name is Vano, and I am Front-End Developer !
 
