@@ -1,4 +1,4 @@
-# Hello ! <img  src="https://d3lqdljps13i2n.cloudfront.net/recursos/134/4317590/imagen_1_1551288870.gif"  width="100px" />
+# Hello ! <img  src="https://emoji.gg/assets/emoji/6307_waving_lol.gif"  width="100px" />
 
 ### My name is Vano, and I am Front-End Developer !
 
