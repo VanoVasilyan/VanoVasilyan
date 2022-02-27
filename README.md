@@ -10,7 +10,7 @@ My name is Vano, and I am Front-End Developer
 
 📫 Contact with me:
 
-* gMail: (vanovasilyan@gmail.com) 
-* linkedIn: (https://www.linkedin.com/in/vano-vasilyan-4657261b3/) 
-* telegram: (https://t.me/VanoVasilyan) 
+* gmail: vanovasilyan@gmail.com 
+* linkedIn: https://www.linkedin.com/in/vano-vasilyan-4657261b3/
+* telegram: https://t.me/VanoVasilyan 
 
