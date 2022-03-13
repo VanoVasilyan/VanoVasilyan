@@ -8,7 +8,7 @@
 * Javascript
 * React
 
-📫 Contact with me:
+**Contact with me:**
 
 * Gmail : vanovasilyan@gmail.com 
 * LinkedIn : https://www.linkedin.com/in/vano-vasilyan-4657261b3/
