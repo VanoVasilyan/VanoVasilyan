@@ -1,4 +1,4 @@
-# Hello ! <img  src="https://flyclipart.com/thumb2/waving-hand-sign-emojis--emoji-hunting-and-hands-387556.png"  width="30px" />
+# Hello ! <img  src="https://cdn.shopify.com/s/files/1/1061/1924/products/Waving_Hand_Sign_Emoji_Icon_ios10_grande.png?v=1571606113"  width="30px" />
 
 ### My name is Vano, and I am Front-End Developer !
 
