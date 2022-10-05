@@ -1,5 +1,3 @@
-# Hi ! <img  src="https://cdn.shopify.com/s/files/1/1061/1924/products/Waving_Hand_Sign_Emoji_Icon_ios10_grande.png?v=1571606113"  width="30px" />
-
 ### My name is Vano, and I am Front-End Developer !
 
 **My technology stack :**
