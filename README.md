@@ -4,7 +4,7 @@
 
 * HTML / CSS
 * Javascript
-* React
+* React / Redux
 
 **Contact with me:**
 
