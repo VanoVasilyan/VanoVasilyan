@@ -1,4 +1,4 @@
-### My name is Vano, and I am Front-End Developer !
+### My name is Vano, and I am Front-End Engineer !
 
 **My technology stack :**
 
