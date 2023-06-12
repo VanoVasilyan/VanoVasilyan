@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vanik</h1>
+<h1 align="center">Hi 👋, I'm Vano</h1>
 <h3 align="center">I am Front-End Engineer from Armenia</h3>
 
 - 💬 Ask me about **Javascript, React**
